@@ -1,4 +1,4 @@
-#include "expressionParser.hpp"
+#include "../header/expressionParser.hpp"
 
 // Trim: https://www.techiedelight.com/trim-string-cpp-remove-leading-trailing-spaces/
 const std::string WHITESPACE = " \n\r\t\f\v";
